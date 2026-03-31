@@ -58,13 +58,13 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1775019616~acl=%2F*~id=b448185d-9a8
 #KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
 https://dice-live-oc.akamaized.net/hdntl=exp=1775019615~acl=%2F*~id=5702049a-2242-4f01-a4f3-16ef0b0ea80c~data=hdntl,dWlkPTY1OTg2NnxkY2Uuc2t5bnomaXA9MjAzLjk0LjMyLjE0MyZleHA9MTc3NTAxOTY0NSZlaWQ9MjE5MDM3JmNpZD1kY2Uuc2t5bnomb2lkPTMxOCZ0eXBlPUxJVkU~hmac=d9d7845302109b243bfc956ac02303dd642a389bcb5b06cd48c43634b36ed697/dash/live/2093741/219037-313808/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="SkySportsESPN1" tvg-name="Sky Sports NZ ESPN 1" tvg-logo="https://espnpressroom.com/us/files/2016/03/RS1521_ESPN_CLR_Pos-scr-1-780x405.jpg" group-title="Sky Sports NZ",Sky Sports NZ ESPN 1
+#EXTINF:-1 tvg-id="SkySportsESPN1" tvg-name="Sky Sports NZ ESPN 1" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=https://espnpressroom.com/us/files/2016/03/RS1521_ESPN_CLR_Pos-scr-1-780x405.jpg" group-title="Sky Sports NZ",Sky Sports NZ ESPN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
 https://dice-live-oc.akamaized.net/hdntl=exp=1775019616~acl=%2F*~id=4c2ea3a6-f567-4ce9-ba16-cd822f4c2263~data=hdntl,dWlkPTY1OTg2NnxkY2Uuc2t5bnomaXA9MjAzLjk0LjMyLjE0MyZleHA9MTc3NTAxOTY0NiZlaWQ9MjE5MDM4JmNpZD1kY2Uuc2t5bnomb2lkPTMxOCZ0eXBlPUxJVkU~hmac=cfe17797a6cc0ff782951ecf8f5770499a5a9f4a2eced30e743295344bde2579/dash/live/2093727/219038-313732/manifest-d.mpd
 
-#EXTINF:-1 tvg-id="SkySportsESPN2" tvg-name="Sky Sports NZ ESPN 2" tvg-logo="https://espnpressroom.com/us/files/2016/03/RS1521_ESPN_CLR_Pos-scr-1-780x405.jpg" group-title="Sky Sports NZ",Sky Sports NZ ESPN 2
+#EXTINF:-1 tvg-id="SkySportsESPN2" tvg-name="Sky Sports NZ ESPN 2" tvg-logo="https://api.codetabs.com/v1/proxy/?quest=https://espnpressroom.com/us/files/2016/03/RS1521_ESPN_CLR_Pos-scr-1-780x405.jpg" group-title="Sky Sports NZ",Sky Sports NZ ESPN 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
